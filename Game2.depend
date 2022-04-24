@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1650177457 source:d:\homework\game2\main.cpp
+	<chrono>
+	<SDL.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<string>
+
